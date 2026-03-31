@@ -54,13 +54,13 @@ This project showcases my approach on building **realistic, production-adjacent 
 ## 🎓 Education
 
 **Master of Science in Data Engineering & Analytics**  
-Technical University of Munich (TUM)
+Technical University of Munich (TUM) 
 *Focus: Distributed Systems, Stream Processing, Cloud Data Platforms*
 
 This experience deepened my understanding of large-scale data systems, from designing architectures to implementing on-premise and cloud architectures with hyperscalers.
 
 **Bachelor of Science in Computer Science Engineering**  
-Marmara University  
+Marmara University
 *Focus: Machine Learning, Software Development*
 
 This experience improved my understanding of machine learning systems, its foundational concepts to applications on different domains.
